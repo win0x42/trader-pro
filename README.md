@@ -24,7 +24,7 @@ trader-pro/
 │   └── risk_control.py       # Risk control calculator
 ├── main.py                   # Entry script with language menu
 ├── README_CN.md              # 中文使用说明
-├── README_EN.md              # English documentation
+├── README.md                 # English documentation
 ```
 
 ---

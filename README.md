@@ -23,7 +23,7 @@ trader-pro/
 │   ├── calculate_points.py   # Profit calculator script
 │   └── risk_control.py       # Risk control calculator
 ├── main.py                   # Entry script with language menu
-├── README_CN.md              # 中文使用说明
+├── README_CN.md              # Chinese documentation 
 ├── README.md                 # English documentation
 ```
 

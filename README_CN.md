@@ -24,7 +24,7 @@ trader-pro/
 │   └── risk_control.py       # 风控计算模块
 ├── main.py                   # 主程序（语言选择 + 菜单）
 ├── README_CN.md              # 中文说明文档
-├── README_EN.md              # English Documentation
+├── README.md                 # English Documentation
 ```
 
 ---

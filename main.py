@@ -1,6 +1,8 @@
-
-import subprocess
 import os
+import sys
+import subprocess
+
+os.chdir(os.path.dirname(os.path.abspath(sys.argv[0])))
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
